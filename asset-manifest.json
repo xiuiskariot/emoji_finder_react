@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/emoji_finder_react/static/css/main.44be0a7a.css",
+    "main.js": "/emoji_finder_react/static/js/main.cad30652.js",
+    "index.html": "/emoji_finder_react/index.html",
+    "static/media/Vector.svg": "/emoji_finder_react/static/media/Vector.9253702b9a4652d3e984.svg",
+    "main.44be0a7a.css.map": "/emoji_finder_react/static/css/main.44be0a7a.css.map",
+    "main.cad30652.js.map": "/emoji_finder_react/static/js/main.cad30652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44be0a7a.css",
+    "static/js/main.cad30652.js"
+  ]
+}
