@@ -1,8 +1,8 @@
 {
-  "name": "emoj-finder-on-react",
+  "name": "emoji_finder_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xiuiskariot.github.io/emoji_finder_on_react",
+  "homepage": "https://xiuiskariot.github.io/emoji_finder_react",
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
